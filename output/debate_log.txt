@@ -1,0 +1,5 @@
+2025-06-28 13:54:48,195 INFO: Starting Debate Simulation
+2025-06-28 13:59:52,924 INFO: Starting Debate Simulation
+2025-06-28 14:04:47,950 INFO: Starting Debate Simulation
+2025-06-28 14:08:55,688 INFO: Starting Debate Simulation
+2025-06-28 18:09:18,264 INFO: Starting Debate Simulation
